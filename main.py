@@ -2,4 +2,6 @@ import os
 import time
 import flask
 import requests
-from app import *
+from app import menu
+
+menu()
